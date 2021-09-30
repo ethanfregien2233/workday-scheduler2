@@ -4,6 +4,14 @@ body {
   line-height: 1;
 }
 
+.fas {
+  position: absolute;
+  height: 20px;
+  width: 20px;
+  top: 40%;
+  left: 40%;
+} 
+
 textarea{
   background: transparent;
   border: none;
